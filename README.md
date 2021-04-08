@@ -1,7 +1,9 @@
-start login feature
+release 0.1.0 start
 
-merge from login at regist feature
+deploy dev server
 
-bug fix at QA
+QA
 
-bug fix rel
+bug fixed
+
+release 0.1.0 completed!!
