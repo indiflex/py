@@ -13,3 +13,4 @@ regist coding...
 
 regist completed!!
 
+bug fix for hotfix 0.2.1
