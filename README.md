@@ -12,3 +12,5 @@ login ok
 regist coding...
 
 regist completed!!
+
+실수로 마스터에서 작업했음!!
